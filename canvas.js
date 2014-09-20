@@ -1,4 +1,5 @@
 //This is a javascript file that paints onto the canvas setup in the html file.
+//javascript is annoyingly fast and you have to wait for the slow ass HTML to load before doing anything.
 window.onload = function() {
     fillCanvas();
 }
